@@ -1,6 +1,18 @@
-# Learn-DeFi-Project - DApp 开发学习模板
+# AetherForg DApp - 一站式 DeFi 协议
 
-这是一个完整的 DeFi DApp 项目模板，包含智能合约和前端应用，适合学习区块链应用开发。
+这是一个功能完整的 DeFi 协议套件项目，涵盖质押投资、流动性挖矿、跨链互操作、流动性管理和代币互换等核心 DeFi 功能。基于 Foundry + Next.js 构建，适合学习区块链应用开发和 DeFi 协议实现。
+
+## 核心功能特性
+
+- 💰 **质押投资 (Staking)** - 单币质押获取收益，支持灵活质押与锁仓质押
+- 🌾 **流动性挖矿 (Farming)** - LP 代币质押挖矿，多池收益聚合
+- 🔄 **跨链转账 (CCIP)** - 基于 Chainlink CCIP 实现跨链资产互转
+- 💧 **添加流动性 (Liquidity Management)** - 为交易对提供流动性，赚取交易手续费
+- ⚡ **代币互换 (Swap)** - 去中心化代币兑换
+
+## 在线演示
+
+🎯 **项目演示地址**: [Aether Forge - DeFi DApp Demo](https://aether-forge-git-vercel-react-server-86aed9-xiong-fans-projects.vercel.app/)
 
 ## 项目结构
 
@@ -599,9 +611,9 @@ vercel
 欢迎贡献！请遵循以下步骤：
 
 1. Fork 项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
+2. 创建功能分支 (`git checkout -b AetherForge-branch`)
+3. 提交更改 (`git commit -m 'Add some AetherForge-branch'`)
+4. 推送到分支 (`git push origin AetherForge-branch`)
 5. 开启 Pull Request
 
 ## 许可证
