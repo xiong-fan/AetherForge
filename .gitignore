@@ -44,7 +44,7 @@ broadcast/**/dry-run/
 !/broadcast
 
 lib/
-
+!web3-dapp/lib
 # ========================================
 # Testing & Coverage
 # ========================================
